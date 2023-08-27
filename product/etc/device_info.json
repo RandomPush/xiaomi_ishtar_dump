@@ -1,0 +1,13 @@
+{
+  "basic": {
+    "cpu": "Snapdragon 8 Gen 2",
+    "battery": "5000mAh",
+    "camera": "50MP+50MP+50MP+50MP",
+    "screen": "6.73″ AMOLED",
+    "resolution": "3200×1440"
+  },
+  "camera": {
+    "front_camera": "32MP",
+    "rear_camera": "50MP+50MP+50MP+50MP"
+  }
+}
